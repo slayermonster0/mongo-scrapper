@@ -1,0 +1,19 @@
+body {
+    background-image: url("/assets/images/background.jpg");
+    padding-top: 70px;
+    background-size: 100%;
+    background-repeat: repeat-y;
+}
+
+.deleteNote {
+	display: inline-block;
+}
+
+.previousNotes {
+    display: inline-block;
+    width: 90%
+}
+
+#scrape {
+    margin: 8px 0px;
+}
